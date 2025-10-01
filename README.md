@@ -7,7 +7,7 @@
   <style>
     body {
       font-family: sans-serif;
-      text-align: center;
+      ext-align: center;
       background: linear-gradient(135deg, #d4fc79, #96e6a1);
       min-height: 100vh;
       display: flex;
